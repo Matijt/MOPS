@@ -32,7 +32,7 @@
         "edofre/yii2-fullcalendar-scheduler": "1.1.12",
         "kartik-v/yii2-widget-datepicker": "1.4.7",
         "wbraganca/yii2-dynamicform": "2.0.2",
-        "phpoffice/phpexcel": "1.8.2",
+        "phpoffice/phpexcel": "1.14.1",
         "yii2mod/yii2-rbac": "2.3",
         "2amigos/yii2-multi-select-widget" : "*"
 
